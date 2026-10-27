@@ -1,0 +1,26 @@
+C#.Net is a oops Language (Object Oriented Programig Language) developed by Microsoft. It was intoduced in 2002.
+
+OOP means every thing in the program that is in the form of Classes & Objects.
+
+C# is a programming Language that was used to build Web Applications, Windows Applications, Games, and other things.
+
+whats is a class?
+A class acts as a blue print to create multiple objects that was having similar behaviours and properties.
+
+what is an Object?
+Object is nothing but an instance of a class.
+
+whats is a Method?
+  It is a Place where we can write our Business Logic. A class can hold Multiple("N" no of) methods.
+Why methods?
+  basically Methods are mainly for the re-useability (like once we declare (or) write a method we can use it any where in the code i.e in the class or package or namespace), and also reduce and space complexity of a code.
+
+How to create a class?
+Syntax for class : <Access Modifier> class <class Name>{}
+public class Car{
+      
+}      // this is how wecan create a class 
+
+
+  
+
