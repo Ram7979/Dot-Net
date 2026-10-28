@@ -17,9 +17,49 @@ Why methods?
 
 How to create a class?
 Syntax for class : <Access Modifier> class <class Name>{}
+
+we were mainly having 4 types of Access Modifiers i.e... "PUBLIC", "PRIVATE", "PROTECTED", "INTERNAL (C#) OR DEFAULT(JAVA)"
+<Access Modefier> ---> for a class it can holds 2 types of access modifiers i.e.. public & internal
 public class Car{
-      
-}      // this is how wecan create a class 
+      //Methods
+      //properties
+      //fields
+      //objects
+      A class can holds all this things in it.
+}      // this is how we can create a public class 
+
+internal class Car{
+      //Methods
+      //properties
+      //fields
+      //objects
+}
+
+
+Object  creation:
+Syntax: <Class Name> <variable name> = new <class Constructor>
+
+ex: Car obj = new Car();   ---> this is we can create an object for a class.
+
+** By using this patricular class object we can call all the class methods and properties.
+
+Methods
+syntax: 
+<Access Modifier> <return type> <Method Type>(){
+
+}
+
+creation of Method:
+For method we can use all 4 Access Modefiers ---> "public", "private", "protected", "internal" and also few other like 
+
+
+
+
+
+
+
+
+
 
 
   
